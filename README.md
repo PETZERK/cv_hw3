@@ -15,3 +15,5 @@ annotation_trainval:存放训练集与验证集标注文件
 images:存放所有原始图片
 
 txt文件:划分训练集验证集测试集
+
+​           
